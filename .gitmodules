@@ -1,3 +1,6 @@
 [submodule "3rd/googletest"]
 	path = 3rd/googletest
 	url = https://github.com/google/googletest.git
+[submodule "3rd/wasm-micro-runtime"]
+	path = 3rd/wasm-micro-runtime
+	url = https://github.com/bytecodealliance/wasm-micro-runtime.git
